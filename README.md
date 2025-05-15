@@ -4,6 +4,7 @@
 Cílem projektu bylo vytvořit jakou si topologii určité sítě která by mohla být v praxi použitelná. 
 # 2. Stav projektu
 Projekt je ve stavu dokončenný, ale dal by se klidně dále rozšiřovat a zdokonalovat jsou zde udělány dvě sítě main a branch a je zde naznačený cloud.
+File který jsem přidal je spustitelný ale jen přes packet tracer. 
  
 # 3. Popis projektu
 Zde je obrázek mého projektu:
